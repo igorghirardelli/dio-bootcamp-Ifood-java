@@ -19,7 +19,7 @@ public class Main {
         byte y1 = 1;
         short h1 = 25;
 
-        System.out.println("l1 == l2"+(l1 == l2)); 
+        System.out.println("l1 == l2"+(l1 == l2));
         System.out.println("l1 != l2"+(l1 != l2));
         System.out.println("l1 > l2"+(l1 > l2));
         System.out.println("l1 <= l2"+(l1 <= l2));

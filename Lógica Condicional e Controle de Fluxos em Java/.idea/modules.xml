@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Lógica Condicional e Controle de Fluxos em Java.iml" filepath="$PROJECT_DIR$/Lógica Condicional e Controle de Fluxos em Java.iml" />
       <module fileurl="file://$PROJECT_DIR$/ResolucaoExercicio1/ResolucaoExercicio1.iml" filepath="$PROJECT_DIR$/ResolucaoExercicio1/ResolucaoExercicio1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ResolucaoExercicio2/ResolucaoExercicio2.iml" filepath="$PROJECT_DIR$/ResolucaoExercicio2/ResolucaoExercicio2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ResolucaoExercicio3/ResolucaoExercicio3.iml" filepath="$PROJECT_DIR$/ResolucaoExercicio3/ResolucaoExercicio3.iml" />
     </modules>
   </component>
 </project>
