@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Exercicio1/Exercicio1.iml" filepath="$PROJECT_DIR$/Exercicio1/Exercicio1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicio4/Exercicio4.iml" filepath="$PROJECT_DIR$/Exercicio4/Exercicio4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicio5/Exercicio5.iml" filepath="$PROJECT_DIR$/Exercicio5/Exercicio5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExercicioLivro/ExercicioLivro.iml" filepath="$PROJECT_DIR$/ExercicioLivro/ExercicioLivro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HerancaExercicio1/HerancaExercicio1.iml" filepath="$PROJECT_DIR$/HerancaExercicio1/HerancaExercicio1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HerancaExercicio2/HerancaExercicio2.iml" filepath="$PROJECT_DIR$/HerancaExercicio2/HerancaExercicio2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Programação Orientada a Objetos.iml" filepath="$PROJECT_DIR$/.idea/Programação Orientada a Objetos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Teste/Teste.iml" filepath="$PROJECT_DIR$/Teste/Teste.iml" />
+    </modules>
+  </component>
+</project>
