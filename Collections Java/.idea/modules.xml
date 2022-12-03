@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Collections Java.iml" filepath="$PROJECT_DIR$/.idea/Collections Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExemploList/ExemploList.iml" filepath="$PROJECT_DIR$/ExemploList/ExemploList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExemploMap/ExemploMap.iml" filepath="$PROJECT_DIR$/ExemploMap/ExemploMap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExemploOrdenacao/ExemploOrdenacao.iml" filepath="$PROJECT_DIR$/ExemploOrdenacao/ExemploOrdenacao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExemploOrdencaoList/ExemploOrdencaoList.iml" filepath="$PROJECT_DIR$/ExemploOrdencaoList/ExemploOrdencaoList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExemploSet/ExemploSet.iml" filepath="$PROJECT_DIR$/ExemploSet/ExemploSet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExemploStream/ExemploStream.iml" filepath="$PROJECT_DIR$/ExemploStream/ExemploStream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OrdenacaoSet/OrdenacaoSet.iml" filepath="$PROJECT_DIR$/OrdenacaoSet/OrdenacaoSet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/teste/teste.iml" filepath="$PROJECT_DIR$/teste/teste.iml" />
+    </modules>
+  </component>
+</project>
